@@ -32,7 +32,7 @@
 #
 
 <details>
-  <summary style="text-align: center;"><h3>‍ My Projects:</h3></summary>
+  <summary><h3>‍ My Projects:</h3></summary>
   <div class="project-card" align="center">
   <h3>Project 1 Name</h3>
   <p>Brief description of the project.</p>
