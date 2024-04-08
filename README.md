@@ -5,6 +5,7 @@
 <p align="left">My passion lies in crafting sleek and functional web applications that leave a lasting impression. I'm constantly driven to learn new technologies and hone my skills to create applications that not only meet user needs but also push the boundaries of what's possible. The ever-evolving nature of web development keeps me energized and allows me to contribute to a future where web applications make a significant and positive difference in our world.</p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNvazVjYXFtaHdlMjA5dXc5M3J0c3JiaGs5ZnIycGlrejlnaTg1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" height="90" alt="coding"  />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGU2cTIxbnA2MzBqODRhNHZiY2dudXo4ZDc0c2lrczdpdWM0dWk2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="90" alt="coding"  />
 <hr>
 
 ### 🖥️ My Languages and Tools
