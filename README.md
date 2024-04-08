@@ -33,18 +33,20 @@
 
 <details>
   <summary style="text-align: center;"><h3>‍ My Projects:</h3></summary>
-  <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px;">
-    <h3>Project 1 Name</h3>
-    <p style="text-align: left;">Brief description of the project.</p>
-    <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
-  </div>
-
-  <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px;">
-    <h3>Project 2 Name</h3>
-    <p style="text-align: left;">Brief description of the project.</p>
-    <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
+  <div style="margin: 0 auto; width: 80%; text-align: center;">
+    <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px; text-align: left;">
+      <h3>Project 1 Name</h3>
+      <p>Brief description of the project.</p>
+      <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
+    </div>
+    <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px; text-align: left;">
+      <h3>Project 2 Name</h3>
+      <p>Brief description of the project.</p>
+      <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
+    </div>
   </div>
 </details>
+
 
 
 
