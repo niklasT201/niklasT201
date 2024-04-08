@@ -4,6 +4,8 @@
 
 <p align="left">My passion lies in crafting sleek and functional web applications that leave a lasting impression. I'm constantly driven to learn new technologies and hone my skills to create applications that not only meet user needs but also push the boundaries of what's possible. The ever-evolving nature of web development keeps me energized and allows me to contribute to a future where web applications make a significant and positive difference in our world.</p>
 
+<hr>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niklasT201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niklasT201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
