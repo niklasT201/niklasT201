@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="30" alt="gimp logo" />
 </div>
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNvazVjYXFtaHdlMjA5dXc5M3J0c3JiaGs5ZnIycGlrejlnaTg1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif))
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNvazVjYXFtaHdlMjA5dXc5M3J0c3JiaGs5ZnIycGlrejlnaTg1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)
 
 
 
