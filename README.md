@@ -45,7 +45,7 @@
 </details>
 
 
-<h3 align="left">Let's connect!</h3>
+### 🌐Let's connect!
 
 <div align="left">
   <a href="https://www.youtube.com/">  
