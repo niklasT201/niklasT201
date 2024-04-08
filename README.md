@@ -44,8 +44,8 @@
 </div>
 
 <div class="project-card">
-  <h3>Project 2 Name</h3>
-  <p>Brief description of the project.</p>
+  <h3>My Portfolio (incoming)</h3>
+  <p>Thats everything you should now about me. Hope you like it</p>
   <a href="https://yourapplication.com">Link to Project</a>
 </div>
 
