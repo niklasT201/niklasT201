@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="30" alt="gimp logo" />
 </div>
 
-[![Alt text for your GIF](image_link_here)](https://imgur.com/a/igguJvU)
+[![Alt text for your GIF](https://imgur.com/a/igguJvU)](https://imgur.com/a/igguJvU)
 
 
 #
