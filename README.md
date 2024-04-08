@@ -66,7 +66,7 @@ The future of web development is brimming with possibilities, and I'm eager to b
   <a href="https://www.linkedin.com/in/niklas-stadie-a04517266/">    
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-   <a href="https://www.youtube.com/channel/UCdWbckH4tWVfuqyt7KUWg6A">  
+   <a href="https://www.xing.com/profile/Niklas_Stadie">  
     <img src="https://img.shields.io/badge/Xing-lightgreen?style=for-the-badge&logo=xing&logoColor=white&color=lightgreen&cacheSeconds=3600" height="35" alt="youtube logo" />
   </a>
 </div>
