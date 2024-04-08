@@ -46,7 +46,7 @@
 <div class="project-card">
   <h3>My Portfolio (incoming)</h3>
   <p>Thats everything you should now about me. Hope you like it</p>
-  <a href="https://yourapplication.com">Link to Project</a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Portfolio&color=purple">
 </div>
 
 
