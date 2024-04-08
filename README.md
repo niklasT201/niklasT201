@@ -32,23 +32,20 @@
 #
 
 <details>
-   <summary>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <h3>‍ My Projects:</h3>
-    </div>
-  </summary>
+  <summary style="text-align: center;"><h3>‍ My Projects:</h3></summary>
   <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px;">
     <h3>Project 1 Name</h3>
-    <p>Brief description of the project.</p>
+    <p style="text-align: left;">Brief description of the project.</p>
     <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
   </div>
 
   <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px;">
     <h3>Project 2 Name</h3>
-    <p>Brief description of the project.</p>
+    <p style="text-align: left;">Brief description of the project.</p>
     <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
   </div>
 </details>
+
 
 
   #
