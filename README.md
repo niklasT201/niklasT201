@@ -1,6 +1,10 @@
 <h2 align="left">Hi there! 👋 I'm Niklas, a Web Developer from Germany</h2>
 
 <p align="left">I love building sleek and functional web applications that make a difference.</p>
+###
+
+I'm passionate about building user-friendly and interactive web applications. I'm always eager to learn new technologies and improve my skills.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niklasT201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
