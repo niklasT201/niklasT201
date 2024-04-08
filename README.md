@@ -33,19 +33,20 @@
 
 <details>
   <summary style="text-align: center;"><h3>‍ My Projects:</h3></summary>
-  <div style="margin: 0 auto; width: 80%; text-align: center;">
-    <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px; text-align: left;">
+  <div style="text-align: center;">
+    <div class="project-card" style="display: inline-block; padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px; text-align: left;">
       <h3>Project 1 Name</h3>
       <p>Brief description of the project.</p>
       <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
     </div>
-    <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px; text-align: left;">
+    <div class="project-card" style="display: inline-block; padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px; text-align: left;">
       <h3>Project 2 Name</h3>
       <p>Brief description of the project.</p>
       <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
     </div>
   </div>
 </details>
+
 
 
 
