@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGU2cTIxbnA2MzBqODRhNHZiY2dudXo4ZDc0c2lrczdpdWM0dWk2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="90" alt="coding"  />
 <hr>
 
-### 🖥️ My Languages and Tools
+### 🖥️ Languages and Tools
 
 
 <div align="left">
@@ -36,7 +36,7 @@
 
 #
 
- ### ‍📁 My Projects
+ ### ‍📁 Projects
   <div class="project-card">
   <h3>Calorie Tracker App</h3>
   <p>A small and simple App just to track what you eat in a day and if these values hit your daily goals of calorie, sugar, fat and protein.</p>
