@@ -45,7 +45,7 @@
 
 While pursuing this program, I discovered a passion for coding and began exploring it at home. Visual Basic was my initial foray into programming, and it sparked my interest in the world of web development.
 
-As my passion grew, I delved deeper into web development concepts. This journey culminated in my attempt to create my first website, which I also envisioned as a mobile application. This ambitious project allowed me to apply my acquired knowledge and gain valuable hands-on experience in web development.
+As my passion grew, I focused deeper into web development concepts. This journey culminated in my attempt to create my first website, which I also envisioned as a mobile application. This ambitious project allowed me to apply my acquired knowledge and gain valuable hands-on experience in web development.
 
 </details>
 
