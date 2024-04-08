@@ -1,5 +1,7 @@
 <h2 align="left">Hi there! 👋 I'm Niklas, a Web Developer from Germany</h2>
 
+<p dir="auto"><strong><code>Digital Craftsman (Developer/Filmmaker/Creator)</code></strong></p>
+
 <p align="left">I love building sleek and functional web applications that make a difference.</p>
 
 <div align="center">
