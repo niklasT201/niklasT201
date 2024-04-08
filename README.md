@@ -33,6 +33,18 @@
 
 <details>
   <summary><h3>‍ My Projects:</h3></summary>
+  <div class="project-card">
+  <h3>Project 1 Name</h3>
+  <p>Brief description of the project.</p>
+  <a href="https://yourapplication.com">Link to Project</a>
+</div>
+
+<div class="project-card">
+  <h3>Project 2 Name</h3>
+  <p>Brief description of the project.</p>
+  <a href="https://yourapplication.com">Link to Project</a>
+</div>
+
   </details>
 
 
