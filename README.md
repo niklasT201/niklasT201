@@ -33,19 +33,19 @@
 
 <details>
   <summary><h3>‍ My Projects:</h3></summary>
-<div class="project-card">
-  <h3>Project 1 Name</h3>
-  <p style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; margin-left: 15px; border-radius: 5px;">Brief description of the project.</p>
-  <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
-</div>
+  <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px;">
+    <h3>Project 1 Name</h3>
+    <p>Brief description of the project.</p>
+    <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
+  </div>
 
-<div class="project-card" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 5px;">
-  <h3>Project 2 Name</h3>
-  <p>Brief description of the project.</p>
-  <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
-</div>
+  <div class="project-card" style="padding: 20px; border: 1px outset #e0e0e0; margin-bottom: 10px;">
+    <h3>Project 2 Name</h3>
+    <p>Brief description of the project.</p>
+    <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
+  </div>
+</details>
 
-  </details>
 
   #
 
