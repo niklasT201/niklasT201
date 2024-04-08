@@ -34,7 +34,7 @@
 <details>
   <summary><h3>‍ My Projects:</h3></summary>
   <div class="project-card">
-  <br><h3>Project 1 Name</h3>
+  <h3>Project 1 Name</h3>
   <p>Brief description of the project.</p>
   <a href="https://yourapplication.com">Link to Project</a>
 </div>
@@ -46,9 +46,6 @@
 </div>
 
 </details>
-
-
-
 
 
   #
