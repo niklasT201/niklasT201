@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3 align="left">Technologies I work with:</h3>
+<h3 align="left">My Languages:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
