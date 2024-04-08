@@ -31,8 +31,7 @@
 
 #
 
-<details>
-  <summary><h3>‍📁 My Projects</h3></summary>
+ ### ‍📁 My Projects
   <div class="project-card">
   <h3>Calorie Tracker App</h3>
   <p>A small and simple App just to track what you eat in a day and if these values hit your daily goals of calorie, sugar, fat and protein.</p>
@@ -45,7 +44,6 @@
   <a href="https://yourapplication.com">Link to Project</a>
 </div>
 
-</details>
 
 
   #
