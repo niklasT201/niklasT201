@@ -43,9 +43,9 @@
  <summary><h3>👨‍💻 My Start & Progress:</h3></summary>
    My journey began with a formal apprenticeship program in Information Technology, known as an "Ausbildung zum Informationstechnischen Assistenten" (German for Ausbildung as Information Technology Assistant). This provided a solid foundation in the technical aspects of IT.
 
-While pursuing this program, I discovered a passion for coding and began exploring it at home. Visual Basic was my initial foray into programming, and it sparked my interest in the world of web development.
+Even outside of programming sessions, my mind buzzes with potential solutions to coding challenges.  There's a real burning passion for it – it's more than just a hobby!
 
-As my passion grew, I focused deeper into web development concepts. This journey culminated in my attempt to create my first website, which I also envisioned as a mobile application. This ambitious project allowed me to apply my acquired knowledge and gain valuable hands-on experience in web development.
+My initial foray into programming was with Visual Basic, and it quickly propelled me towards the exciting world of web development.  I wasn't satisfied with just building websites – I craved a bigger challenge. That's when I set my sights on creating a website that could also function as a mobile app.  This ambitious project allowed me to push my boundaries, applying my knowledge and gaining invaluable experience in the ever-evolving field of web development.
 
 </details>
 
