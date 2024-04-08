@@ -47,6 +47,8 @@ Even outside of programming sessions, my mind buzzes with potential solutions to
 
 My initial foray into programming was with Visual Basic, and it quickly propelled me towards the exciting world of web development.  I wasn't satisfied with just building websites – I craved a bigger challenge. That's when I set my sights on creating a website that could also function as a mobile app.  This ambitious project allowed me to push my boundaries, applying my knowledge and gaining invaluable experience in the ever-evolving field of web development.
 
+In addition to web development, I've also been exploring the fascinating world of AI, particularly its application in voice cloning. This foray into a different area of technology demonstrates my curiosity and desire to keep learning and expanding my skillset.
+
 The future of web development is brimming with possibilities, and I'm eager to be a part of it. My list of project ideas keeps growing, with everything from innovative web applications to user-friendly mobile interfaces on my mind.  I can't wait to dive into new technologies, overcome challenges, and keep pushing the boundaries of what's possible. The fire for programming burns bright, and I'm excited to see what I can create next!
 
 </details>
