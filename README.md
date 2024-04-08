@@ -40,7 +40,7 @@
   <div class="project-card">
   <h3>Calorie Tracker App</h3>
   <p>A small and simple App just to track what you eat in a day and if these values hit your daily goals of calorie, sugar, fat and protein.</p>
-  <a href="https://yourapplication.com">Link to Project</a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Portfolio&color=purple">
 </div>
 
 <div class="project-card">
