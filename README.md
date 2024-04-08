@@ -45,9 +45,20 @@
   <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
 </div>
 
-
-
   </details>
+
+  <div class="project-card" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 5px;">
+  <h3>Project 1 Name</h3>
+  <p>Brief description of the project.</p>
+  <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
+</div>
+
+<div class="project-card" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 5px;">
+  <h3>Project 2 Name</h3>
+  <p>Brief description of the project.</p>
+  <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
+</div>
+
 
   #
 
