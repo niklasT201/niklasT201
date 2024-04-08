@@ -33,9 +33,9 @@
 
 <details>
   <summary><h3>‍ My Projects:</h3></summary>
-<div class="project-card" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; margin-left: 15px; border-radius: 5px;">
+<div class="project-card">
   <h3>Project 1 Name</h3>
-  <p>Brief description of the project.</p>
+  <p style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; margin-left: 15px; border-radius: 5px;">Brief description of the project.</p>
   <a href="https://yourapplication.com" style="color: #007bff; text-decoration: none;">Link to Project</a>
 </div>
 
