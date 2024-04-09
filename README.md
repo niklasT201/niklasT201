@@ -43,8 +43,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Tracker-orange?style=for-the-badge&logo=Portfolio&color=orange">
 </div>
 <br>
-<br>
-<br>
 
 <div class="project-card">
   <h3>My Portfolio (incoming)</h3>
