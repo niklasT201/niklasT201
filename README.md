@@ -40,7 +40,9 @@
   <div class="project-card">
   <h3>Calorie Tracker App</h3>
   <p>A small and simple App just to track what you eat in a day and if these values hit your daily goals of calorie, sugar, fat and protein.</p>
+    <a href="https://calorie-tracker-213.netlify.app">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tracker-orange?style=for-the-badge&logo=Portfolio&color=orange">
+    </a>
 </div>
 
 <br>
@@ -48,7 +50,9 @@
 <div class="project-card">
   <h3>My Portfolio (incoming)</h3>
   <p>Thats everything you should now about me. Hope you like it</p>
+  <a href="#">
   <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Portfolio&color=purple">
+  </a>
 </div>
 
 
