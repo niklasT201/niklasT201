@@ -1,12 +1,13 @@
+<div align="center" >
+    <img src="https://github.com/niklasT201/niklasT201/blob/main/banner1.jpg" height="300px" width="850"/>
+</div>
+
 <h2 align="left">Hi there! 👋 I'm Niklas, a Web Developer from Germany</h2>
 
 <p dir="auto"><strong><code>Developer/Creator</code></strong></p>
 
 <p align="left">My passion lies in crafting sleek and functional web applications that leave a lasting impression. I'm constantly driven to learn new technologies and hone my skills to create applications that not only meet user needs but also push the boundaries of what's possible. The ever-evolving nature of web development keeps me energized and allows me to contribute to a future where web applications make a significant and positive difference in our world.</p>
 
-<div align="center" >
-    <img src="https://github.com/niklasT201/niklasT201/blob/main/banner1.jpg" height="300px" width="850"/>
-</div>
 
 <hr>
 
