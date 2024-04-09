@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="https://github.com/niklasT201/niklasT201/blob/main/clideo_editor_a78bef6437854702aa0d1ba83f718978.gif" width="850" height="250" />
+    <img src="https://github.com/niklasT201/niklasT201/blob/main/banner.gif" width="850" height="250" />
 </div>
 
 <h2 align="left">Hi there! 👋 I'm Niklas, a Web Developer from Germany</h2>
