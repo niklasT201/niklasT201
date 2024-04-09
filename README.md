@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="https://github.com/niklasT201/niklasT201/blob/main/banner.jpg"/>
+    <img src="https://github.com/niklasT201/niklasT201/blob/main/banner.jpg" height="200px"/>
 </div>
 
 <h2 align="left">Hi there! 👋 I'm Niklas, a Web Developer from Germany</h2>
