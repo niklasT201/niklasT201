@@ -70,7 +70,7 @@
 #
 
 <details>
- <summary><h3>👨‍💻 My Start & Progress</h3></summary>
+ <summary><h3>👨‍💻 Start & Progress</h3></summary>
    My journey began with a formal apprenticeship program in Information Technology, known as an "Ausbildung zum Informationstechnischen Assistenten" (German for Ausbildung as Information Technology Assistant). This provided a solid foundation in the technical aspects of IT.
 
 Even outside of programming sessions, my mind buzzes with potential solutions to coding challenges.  There's a real burning passion for it – it's more than just a hobby!
