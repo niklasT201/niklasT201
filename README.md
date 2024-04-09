@@ -44,6 +44,7 @@
 </div>
 <br>
 <br>
+<br>
 
 <div class="project-card">
   <h3>My Portfolio (incoming)</h3>
