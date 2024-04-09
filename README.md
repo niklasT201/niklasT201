@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="https://github.com/niklasT201/niklasT201/blob/main/web_developer.gif" />
+    <img src="https://github.com/niklasT201/niklasT201/blob/main/possible.gif" />
 </div>
 
 <h2 align="left">Hi there! 👋 I'm Niklas, a Web Developer from Germany</h2>
