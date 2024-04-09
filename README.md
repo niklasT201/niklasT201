@@ -4,7 +4,7 @@
 
 <p align="left">My passion lies in crafting sleek and functional web applications that leave a lasting impression. I'm constantly driven to learn new technologies and hone my skills to create applications that not only meet user needs but also push the boundaries of what's possible. The ever-evolving nature of web development keeps me energized and allows me to contribute to a future where web applications make a significant and positive difference in our world.</p>
 
-<div align="left" >
+<div align="center" >
     <img src="https://github.com/niklasT201/niklasT201/blob/main/banner1.jpg" height="300px"/>
 </div>
 
@@ -13,7 +13,7 @@
 ### 🖥️ Languages and Tools
 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
