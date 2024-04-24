@@ -53,7 +53,7 @@
 <div class="project-card">
   <h3>My Portfolio (95% Done)</h3>
   <p>Thats everything you should now about me. Hope you like it</p>
-  <a href="https://portfolio-niklas.netlify.app/projects">
+  <a href="https://portfolio-niklas.netlify.app">
   <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Portfolio&color=purple">
   </a>
 </div>
